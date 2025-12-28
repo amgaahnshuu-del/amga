@@ -1,0 +1,154 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Бууз",
+      "description": "Монгол үндэстний уламжлалт хоол, мах, сонгино, давс, хар перец зэргээр хийгддэг",
+      "price": 2500,
+      "category": "main",
+      "image": "/images/menu-item-1.jpg",
+      "popular": true
+    },
+    {
+      "id": 2,
+      "name": "Хуушуур",
+      "description": "Шарсан махтай бялуу, гадна хүрэн шаргал, дотор зөөлөн",
+      "price": 2000,
+      "category": "main",
+      "image": "/images/menu-item-2.jpg",
+      "popular": true
+    },
+    {
+      "id": 3,
+      "name": "Цуйван",
+      "description": "Гурилтай махтай хоол, төмс, лууван, сонгино зэрэг ногоотой",
+      "price": 6000,
+      "category": "main",
+      "image": "/images/menu-item-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Бодь махтай шөл",
+      "description": "Бодь мах, төмс, лууван, сонгино зэргээр хийгдсэн халуун шөл",
+      "price": 5500,
+      "category": "main",
+      "image": "/images/menu-item-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Махан бин",
+      "description": "Гурилаар хийсэн гоймон дээр мах, ногоо, соус асгасан хоол",
+      "price": 6500,
+      "category": "main",
+      "image": "/images/menu-item-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Бяслагтай салад",
+      "description": "Шинэ ногоо, бяслаг, оливын тостой салад",
+      "price": 8000,
+      "category": "salad",
+      "image": "/images/menu-item-6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Холимог салад",
+      "description": "Өргөн сонголттой ногоо, жимс, гахайн махтай салад",
+      "price": 7500,
+      "category": "salad",
+      "image": "/images/menu-item-7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Кока Кола",
+      "description": "Халуун орны ундаа, 0.5л",
+      "price": 2000,
+      "category": "drink",
+      "image": "/images/menu-item-8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ус",
+      "description": "Цэвэр ундаа, 0.5л",
+      "price": 1000,
+      "category": "drink",
+      "image": "/images/menu-item-9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Цай",
+      "description": "Хөх цай сүүтэй",
+      "price": 1500,
+      "category": "drink",
+      "image": "/images/menu-item-10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Кофе",
+      "description": "Американо кофе",
+      "price": 3000,
+      "category": "drink",
+      "image": "/images/menu-item-11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Цагаан идээ",
+      "description": "Ааруул, цөцгий, хурууд, зөөхийн холимог",
+      "price": 5000,
+      "category": "dessert",
+      "image": "/images/menu-item-12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Боов",
+      "description": "Гурилаар хийсэн амттан, чихэртэй",
+      "price": 1500,
+      "category": "dessert",
+      "image": "/images/menu-item-13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Зайрмаг",
+      "description": "Шоколад, ваниль, гүзээлзгэнэ амттай",
+      "price": 2000,
+      "category": "dessert",
+      "image": "/images/menu-item-14.jpg"
+    }
+  ],
+  "order": [
+    {
+      "id": "b390",
+      "order": [],
+      "customer": {
+        "name": "",
+        "phone": "",
+        "address": "",
+        "notes": "",
+        "deliveryTime": "asap"
+      },
+      "subtotal": 0,
+      "tax": 0,
+      "deliveryFee": 3000,
+      "finalTotal": 3000,
+      "timestamp": "2025-12-28T17:21:09.000Z",
+      "orderNumber": "ORD-464667"
+    },
+    {
+      "id": "30c5",
+      "order": [],
+      "customer": {
+        "name": "",
+        "phone": "",
+        "address": "",
+        "notes": "",
+        "deliveryTime": "asap"
+      },
+      "subtotal": 0,
+      "tax": 0,
+      "deliveryFee": 3000,
+      "finalTotal": 3000,
+      "timestamp": "2025-12-28T17:21:39.811Z",
+      "orderNumber": "ORD-496940"
+    }
+  ]  
+}
